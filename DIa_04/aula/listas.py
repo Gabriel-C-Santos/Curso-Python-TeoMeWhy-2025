@@ -55,3 +55,6 @@ Gabriel[4][-2:]
 # %%
 Gabriel[:4]
 # %%
+Gabriel[::2]
+
+# Gabriel [start : stop : step]
